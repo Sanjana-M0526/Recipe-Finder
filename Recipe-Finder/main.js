@@ -1,4 +1,4 @@
-const API_KEY = "a80774edaae941649f5f014f80533231";
+const API_KEY = "";
 const API_BASE = "https://api.spoonacular.com/recipes";
 
 const content = document.getElementById("content");
@@ -98,4 +98,5 @@ function showMealDetail(meal) {
 
   content.innerHTML = "";
   content.appendChild(div);
+
 }
