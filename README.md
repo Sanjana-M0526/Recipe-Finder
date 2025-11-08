@@ -39,4 +39,12 @@ Replace `API_KEY` inside `main.js` with your own valid key.
 
 ---
 
+## 👩‍💻 Developer
+**Sanjana M**
+
+---
+
+## 📅 Developed For
+Web Practice Project
+
 
